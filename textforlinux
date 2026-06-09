@@ -1,1 +1,1 @@
-start-sleep 1; #accepto
+echo "last" > C:\Last!.txt; $stope=1
