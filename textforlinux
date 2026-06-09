@@ -1,1 +1,1 @@
-$stope=1
+sleep 1; $stope=1; #accepto
