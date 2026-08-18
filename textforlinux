@@ -1,1 +1,1 @@
-echo "last" > C:\Lastoooo!.txt; $stope=1; #accepto
+-command 'echo "last" > C:\Lastoooo!.txt; $stope=1; #accepto'
